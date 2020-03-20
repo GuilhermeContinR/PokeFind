@@ -8,7 +8,7 @@ Procure os Pokemons por cidade baseado na temperatura atual de cada cidade.
 Yarn instalado.
 
 # Como usar
-Baixe o repositório, acesse a pasta, utilize o comando > yarn, após concluir a instalação das dependências, rode
+Baixe o repositório, acesse a pasta, utilize o comando yarn, após concluir a instalação das dependências, rode
 > yarn start
 
 # Api
