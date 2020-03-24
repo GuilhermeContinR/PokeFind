@@ -9,6 +9,7 @@ Yarn instalado.
 
 # Como usar
 Baixe o repositório, acesse a pasta, utilize o comando yarn, após concluir a instalação das dependências, rode
+> yarn install
 > yarn start
 
 # Api
